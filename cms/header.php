@@ -16,7 +16,7 @@
             border-radius: 12px;
         }
         .table th {
-            background-color: #0d6efd;
+            background-color: #7ba8ea;
             color: #fff;
             text-align: center;
         }
